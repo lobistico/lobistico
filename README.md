@@ -27,5 +27,4 @@ Meu personagem no RPG é o C.L. Drake, segundo sua lore oficial, ele é um jovem
 
 ![spotify](https://spotify-github-profile.vercel.app/api/view?uid=31pv2qtto2td2ir7saqdbqgqcply&cover_image=false&theme=default&bar_color=cc0000&bar_color_cover=false)
 
-![Top](https://github-readme-stats.vercel.app/api/top-langs/?username=lobistico&layout=compact)
 </div>

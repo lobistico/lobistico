@@ -1,6 +1,6 @@
 ![Static Badge](https://img.shields.io/badge/Lobistico-%20%23KeepTheWolf%20-%20%23303f6b)
 
-i'm Eduardo Rodrigues, a.k.a Lobo
+i'm Eduardo Rodrigues, a.k.a. Lobo
 
 Data Engineer
 
